@@ -1,0 +1,36 @@
+# Amazon Product Cart – React
+
+## Project Description
+The Amazon Product Cart is a React-based web application that demonstrates product listing and shopping cart functionality. Users can view products, add items to the cart, check product prices, and manage their selected items through an interactive user interface.
+
+## Features
+- Display product details.
+- Add products to the shopping cart.
+- View selected products.
+- Update cart quantities (if implemented).
+- Calculate the total price (if implemented).
+- Responsive and user-friendly interface.
+- React components for reusable UI elements.
+
+## Technologies Used
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite (if used in the project)
+
+## Installation and Execution
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Install dependencies using `npm install`.
+4. Start the development server using `npm run dev`.
+5. Open the local URL displayed in the terminal.
+
+## Project Objective
+To understand React components, state management, event handling, and the basic implementation of shopping cart functionality.
+
+## Author
+Nashling Fathima T.
+
+## GitHub Repository
+https://github.com/Nashling123/Amazon-
